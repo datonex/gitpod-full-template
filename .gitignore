@@ -12,3 +12,5 @@ cloudinary_python.txt
 planning
 .DS_Store
 .env
+*.sqlite3
+*.pyc
